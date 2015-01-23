@@ -1,5 +1,6 @@
 # Topology
 
+Interface of general topology with Ruby
 
 ## Installation
 
